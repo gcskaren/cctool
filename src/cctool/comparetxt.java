@@ -8,8 +8,6 @@ public class comparetxt {
 	public static void main(String[] args) {
 		String[] Newlist = {
 		//		 String[] orange = {
-						 "163.29.3.84_imail             ",
-						 "163.29.3.85_imail             ",
 						 "aa.archives.gov.tw            ",
 						 "across.archives.gov.tw        ",
 						 "alohas.archives.gov.tw        ",
