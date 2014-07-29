@@ -8,10 +8,6 @@ public class comparetxt {
 	public static void main(String[] args) {
 		String[] Newlist = {
 		//		 String[] orange = {
-						 "CY-ards                       ",
-						 "CY-assetweb                   ",
-						 "CY-building                   ",
-						 "CY-DnsInGsn                   ",
 						 "CY-humanrights                ",
 						 "CY-humanrightsEn              ",
 						 "CY-Icinga                     ",
