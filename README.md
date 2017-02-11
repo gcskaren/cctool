@@ -1,2 +1,2 @@
 # cctool
-cctool for test
+cctool for 測試
